@@ -2,7 +2,7 @@
 
 ## SoftUni JS Back-End Course - Exam Preparation Task
 
-This project is a key part of my exam preparation for the **SoftUni JavaScript Back-End course**. It involves working with the provided HTML and CSS templates from SoftUni to develop a functional tech store web application. The goal of the project is to integrate front-end structures with back-end logic using JavaScript. The final result is a fully operational online tech store, focusing on both user experience and back-end functionality.
+This project is a key part of my exam preparation for the **SoftUni JavaScript Back-End course**. It involves working with the provided HTML and CSS templates from SoftUni to develop a functional tech store 🛒💻 web application. The goal of the project is to integrate front-end structures with back-end logic using JavaScript. The final result is a fully operational online tech store, focusing on both user experience and back-end functionality.
 
 ---
 

@@ -75,3 +75,24 @@ After setting up the app, here’s how to use it:
 2. **Device Management**: Add devices to your list by providing relevant details such as title and description.
 3. **Profile Page**: View all the devices you've created or marked as preferred.
 4. **Edit or Delete**: You can update or remove devices from your list anytime.
+
+---
+
+## Screenshots
+
+Here are some screenshots of the Tech-Store application:
+
+- **Home Page:**
+
+    ![Home Page Screenshot](./images/home-page.png)
+
+
+- **Catalog Page:**
+
+    ![Catalog Page Screenshot](./images/catalog-page.png)
+
+
+
+- **Details Page:**
+
+    ![Details Page Screenshot](./images/details-page.png)
